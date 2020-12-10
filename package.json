@@ -1,0 +1,24 @@
+{
+  "name": "teste-medium",
+  "version": "1.0.0",
+  "description": "Apenas mais um teste de API Node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thallesbruno/teste-medium.git"
+  },
+  "author": "Thalles Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thallesbruno/teste-medium/issues"
+  },
+  "homepage": "https://github.com/thallesbruno/teste-medium#readme"
+}
